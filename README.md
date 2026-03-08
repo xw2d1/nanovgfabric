@@ -4,7 +4,7 @@
 ---
 
 ### Basic Fabric 1.21.11 UI Example
-Created with help from Claude.
+UI is fully created by Claude and not perfect lol.
 
 NanoVG allows you to easily draw vector graphics on top of OpenGL, which is the rendering engine currently used by Minecraft.
 
